@@ -16,6 +16,7 @@ public class GUIA14_GIT {
         
         int git = 1;
         int git2 = 2;
+        String nombre = "german";
           }
     
 }
