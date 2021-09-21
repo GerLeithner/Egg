@@ -15,6 +15,7 @@ public class GUIA14_GIT {
     public static void main(String[] args) {
         
         int git = 1;
+        int git2 = 2;
           }
     
 }
