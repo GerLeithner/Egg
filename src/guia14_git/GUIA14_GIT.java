@@ -11,11 +11,10 @@ package guia14_git;
  */
 public class GUIA14_GIT {
 
-    /**
-     * @param args the command line arguments
-     */
+  
     public static void main(String[] args) {
-        // TODO code application logic here
-    }
+        
+        int git = 1;
+          }
     
 }
